@@ -1,22 +1,34 @@
-## Happy Birthday!!!
-
-live now https://machphy.github.io/bday/
-
-### Wish someone special happy birthday in a special way.
-
-hi everyone i'm rajeev 
-
-It was a birthday of one of my brither parth and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
 
 
-I've created the JSON file for easy and quick customizability. If you want to do more customizing, simply edit the HTML file. But in that case, leave the JSON fields empty since it overwrites the HTML. Please note that I've created this page in a hurry and it comes with no warranty, so check yourself before sending it to your friend.
 
-I've used plain HTML, CSS and JavaScript with for animations.
+# Happy Birthday! - [my way of wishing](https://machphy.github.io/bday/)
+[![Happy Birthday](https://machphy.github.io/bday/)](https://machphy.github.io/bday/) [![View Demo](https://machphy.github.io/bday/)
+> **99.9% of people just say "Happy Birthday" to each other over Social Networking Sites like [Facebook]([https://www.facebook.com/profile.php?id=61552023326230](https://www.facebook.com/profile.php?id=61552023326230)) and [Twitter](https://twitter.com/RajeevS15043274) with the same 14 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
-## Contributing
+[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://machphy.github.io/bday/))
+
+### Designing a [website](https://machphy.github.io/bday/) to celebrate your loved one's day is always a great idea!
+
+> #### Click [here](https://machphy.github.io/bday/)) to view live demo!
+
+## Technology Stack Used
+
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-javascript-yellow.svg?logo=javascript&style=flat-square)
+
+- Front End - **HTML**, **CSS**, **JavaScript**
+
+### Need help?
+
+
+
+
+***Glad to see you here! Show some love by [starring](https://machphy.github.io/bday/)) this repo.***
 
 If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
 Stay happy and keep the people you care about happy. :)
 
 copyright@rajeevsharma
+
