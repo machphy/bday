@@ -1,5 +1,7 @@
 ## Happy Birthday!!!
 
+live now https://machphy.github.io/bday/
+
 ### Wish someone special happy birthday in a special way.
 
 hi everyone i'm rajeev 
